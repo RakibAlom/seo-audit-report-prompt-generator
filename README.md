@@ -158,12 +158,3 @@ website-audit-prompt-generator/
 └── README.md          # Documentation
 
 *Note: This is a single-file application. All CSS and JavaScript are embedded in the HTML for easy portability.*
-
-## 🎨 Customization
-
-### Changing Colors
-The tool uses CSS custom properties for the glassmorphism effects. Key classes to modify:
-- `.gradient-text` - Main gradient colors (currently purple/pink)
-- `.btn-primary` - Primary button gradients
-- `.glass-card` - Card background transparency
-- `.floating-orb` - Background ambient orbs
